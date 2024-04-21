@@ -1,7 +1,17 @@
 # Squidake
 
+## Current Projects
+<table>
+  <tr>
+    <td><img src="https://docs.google.com/drawings/d/e/2PACX-1vRcfRi4TazrijQqbHta-CKMR_-a5BP1EwBwM7GnrV4RWDnI9tNEKVbIflfIWZi-5ioQY6TIRi-gj_se/pub?w=1440&amp;h=1440" height="95"></td>
+  </tr>
+  <tr>
+    <th>A# Language</th>
+  </tr>
+</table>
+
 ## Programming Languages
-<table border="0%">
+<table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" height="50"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50"></td>
