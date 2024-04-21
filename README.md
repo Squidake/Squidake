@@ -1,13 +1,7 @@
 # Hi there 👋
 
 ## Programming Languages
-<table>
-    <tr>
-    <th>Java</th>
-    <th>HTML</th>
-    <th>C++</th>
-    <th>Javascript</th>
-  </tr>
+<table border="0%">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" height="50"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50"></td>
