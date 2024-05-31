@@ -32,6 +32,11 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"></td>
   </tr>
 </table>
+
+<br>
+
+## Ways to Contact Me
+### squidake@gmail.com
 <!--
 **Squidake/Squidake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
