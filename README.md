@@ -14,11 +14,20 @@
 
 <br>
 
-## Languages that I Know!
+## Languages That I Know!
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" height="50"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50"></td>
+  </tr>
+</table>
+
+<br>
+
+## Languages That Im Learning!
+
+<table>
+  <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"></td>
   </tr>
