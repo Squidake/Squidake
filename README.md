@@ -12,6 +12,8 @@
   </tr>
 </table>
 
+<br>
+
 ## Languages that I Know!
 <table>
   <tr>
