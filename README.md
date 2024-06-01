@@ -1,5 +1,8 @@
 # Squidake
-#### I make videos on YouTube. During my free time, I love to code.
+#### I make videos on YouTube during my free time. I also love to program lots of things. Sometimes I design stuff too.
+
+<br>
+
 ## Current Projects!
 <table>
   <tr>
