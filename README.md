@@ -28,11 +28,6 @@
   </tr>
 </table>
 
-<br>
-
-## Socials
-### YouTube & Discord
-### squidake@gmail.com
 <!--
 **Squidake/Squidake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
