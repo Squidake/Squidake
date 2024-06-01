@@ -1,4 +1,4 @@
-# Squidake <img src="https://yt3.googleusercontent.com/LG81_99YeFbzlS6ZIGMn6yIP8eC22zCzlBCwIWJICVxho9X717wJZSplHjdp-aHTokRdVMk_CA=s160-c-k-c0x00ffffff-no-rj" height="50">
+# <img src="https://yt3.googleusercontent.com/LG81_99YeFbzlS6ZIGMn6yIP8eC22zCzlBCwIWJICVxho9X717wJZSplHjdp-aHTokRdVMk_CA=s160-c-k-c0x00ffffff-no-rj" height="50"> Squidake
 #### Hi, I make videos, mostly on YouTube. I also love programming, mainly random things, sometimes websites. During my free time I love editing & design, its fun. My life is usually involved with music. I really love music.
 
 <br>
