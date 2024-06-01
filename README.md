@@ -1,3 +1,4 @@
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRcfRi4TazrijQqbHta-CKMR_-a5BP1EwBwM7GnrV4RWDnI9tNEKVbIflfIWZi-5ioQY6TIRi-gj_se/pub?w=1440&amp;h=1440" height="95">
 # Squidake
 #### Hi, I make videos, mostly on YouTube. I also love programming, mainly random things, sometimes websites. During my free time I love editing & design, its fun. My life is usually involved with music. I really love music.
 
