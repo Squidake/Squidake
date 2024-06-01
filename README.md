@@ -1,5 +1,5 @@
 # Squidake
-#### I make videos on YouTube during my free time. I also love to program lots of things. Sometimes I design stuff too.
+#### Hi, I make videos, mostly on YouTube. I also love programming, mainly random things, sometimes websites. During my free time I love editing & design, its fun. My life is usually involved with music. I really love music.
 
 <br>
 
