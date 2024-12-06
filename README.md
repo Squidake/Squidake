@@ -2,7 +2,7 @@
 
 <p align="center" style="color: #cccccc; font-size: 1.2em; line-height: 1.5; border-radius: 10px; padding: 20px; background: rgba(0, 0, 0, 0.7); box-shadow: 0 0 20px 10px rgba(0, 255, 255, 0.3);">
   Hi! I'm Squidake. I make YouTube videos and love to program — mostly random things and websites.  
-  When I'm not coding, I’m either designing or deeply immersed in music. Let's make something amazing!
+  When I'm not coding, I’m either designing or deeply immersed in music.
 </p>
 
 ---
